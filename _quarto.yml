@@ -5,6 +5,7 @@ project:
 website:
   title: "STAT303"
   navbar:
+    background: "#4b2e83"
     left:
       - href: index.qmd
         text: Home
