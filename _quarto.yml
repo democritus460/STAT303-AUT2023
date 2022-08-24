@@ -3,18 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "STAT303-AUT2022"
+  title: "STAT303"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - syllabus.qmd
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    mainfont: Work Sans
 
 editor: visual
 
