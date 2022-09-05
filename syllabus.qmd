@@ -10,13 +10,13 @@ title: "Syllabus"
 
 **Instructor**: Peter Gao (petergao at uw dot edu)
 
-**Time**: Tuesdays and Thursdays, 2:30 - 3:50pm
+**Time**: Tuesdays and Thursdays, 4:00 - 5:20pm
 
-**Location**: THO 335
+**Location**: GUG 204
 
-**Office hours**: T 12:30 - 2:20 via Zoom ([meeting link](https://washington.zoom.us/j/95175609926))
+**Office hours**: TBD
 
-**Note**: When emailing the instructor, please include "\[STAT 498\]" at the beginning of the email header! It will help us respond to you faster.
+**Note**: When emailing the instructor, please include "\[STAT 303\]" at the beginning of the email header! It will help us respond to you faster.
 
 # Overview
 

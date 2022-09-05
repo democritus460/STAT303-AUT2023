@@ -4,4 +4,4 @@ description: |
   Introduction to the Ethics of Algorithmic Decision Making
 ---
 
-This course was developed in collaboration with [Sarah Teichman](https://svteichman.github.io/).
+This course was originally developed in collaboration with [Sarah Teichman](https://svteichman.github.io/).
