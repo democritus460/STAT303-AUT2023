@@ -3,14 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "STAT303"
+  title: "Home"
   navbar:
     background: "#4b2e83"
     left:
-      - href: index.qmd
-        text: Home
       - syllabus.qmd
       - readings.qmd
+      - assignments.qmd
 
 format:
   html:
