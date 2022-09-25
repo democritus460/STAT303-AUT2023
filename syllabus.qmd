@@ -14,7 +14,7 @@ title: "Syllabus"
 
 **Location**: GUG 204
 
-**Office hours**: TBD
+**Office hours**: Tuesday 3-4pm on Zoom.
 
 **Note**: When emailing the instructor, please include "\[STAT 303\]" at the beginning of the email header! It will help us respond to you faster.
 
@@ -125,4 +125,4 @@ Sharing recordings and other class materials outside of class that include perso
 
 # Links and other resources
 
--   [Canvas ](https://canvas.uw.edu/courses/1519560)[Page](https://canvas.uw.edu/courses/1605870)
+-   [Canvas](https://canvas.uw.edu/courses/1519560)[Page](https://canvas.uw.edu/courses/1605870)
