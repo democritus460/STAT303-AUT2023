@@ -112,6 +112,55 @@
     "text": "Instructions\n\nIdentify a decision system for your assignment and compile references you can draw on for your long response.\nYour long response should include the following sections:\n\nIntroduction (2 points): Introduce your decision system. What purpose does it serve? Who created it? Who are its users? Who are its subjects?\nOverview of algorithm (3 points): What, if any, algorithms/automated systems are involved? Why do these satisfy the definition of algorithm? What are the inputs and outputs?\nTechnical information (2 points): Explain how the algorithms work. If technical details are unavailable, explain why they are unavailable and to the best of your ability, use available information to explain how such algorithms typically work.\nEthical issues (3 points): Identify potential ethical concerns and harms related to your decision system. For each ethical concern/harm raised, be sure to identify potential remedies if there are any.\n\nFinally, your long response will also be graded on the following criterion:\n\nPresentation/exposition (3 points): Submissions should be carefully edited with minimal typos/grammatical mistakes. Citations should be provided for all resources used.\n\nAfter submitting your response, you will be assigned to edit one of your peers’ entries. Your edits will also be graded:\n\nComments (1 point): Provide constructive feedback—which parts require clarifying or editing? Are there issues that the writer should also consider?\nDiscussion questions (1 point): Write at least one discussion question for the writer and provide your own answer."
   },
   {
+    "objectID": "files/discussant.html",
+    "href": "files/discussant.html",
+    "title": "Instructions for Discussants",
+    "section": "",
+    "text": "Each student will be designated as one of the discussants for one class section this quarter. As a discussant, you will help me facilitate the class by outlining the key ideas in each reading and preparing discussion questions. At times, I may also call on you to briefly explain some of the ideas in the readings or to share your thoughts or opinions. Although you will be expected to read and prepare carefully, you are not expected to be able to answer every question and you will not have to be the only one speaking. Above all, I hope to see that you are making an effort to lead the discussion and to engage with questions: do not worry if you forget something from the reading or do not have the answer for a particular question.\nIf you are the discussant for the same class as another student, I encourage you to contact them and discuss the readings/questions ahead of time."
+  },
+  {
+    "objectID": "files/discussant.html#instructions",
+    "href": "files/discussant.html#instructions",
+    "title": "Instructions for Discussants",
+    "section": "Instructions",
+    "text": "Instructions\n\nCarefully read the texts for your assigned class section and take notes on the key ideas and themes.\n(5 points) Prepare two discussion questions that you would be willing to ask your classmates. At least one of these questions should connect multiple of the readings. A good discussion question is one that does not necessarily have one correct answer and should require some reflection to answer. Submit to Canvas a pdf with your two questions and your answers for each. A paragraph for each answer should be enough. Full credit will be given for questions and responses that demonstrate understanding of the readings and that spark thoughtful discussions.\n(5 points) On the day of your assigned class section, attend class and participate by sharing your discussion questions and responding to the instructor’s questions. If you are unable to attend in person, contact me ahead of time and we will make arrangements for you to attend virtually or to meet individually with me to complete this portion of the assignment.\n(1 point extra credit, optional) Identify an additional text/video/resource related to the readings for your assigned class and submit to Canvas a pdf with a brief summary (1-2 paragraphs) of your reading and how it relates to the other readings for the class."
+  },
+  {
+    "objectID": "files/final-project.html#overview",
+    "href": "files/final-project.html#overview",
+    "title": "Final Project",
+    "section": "Overview",
+    "text": "Overview\nFor your final project, you will work in groups of up to three to research a topic related to the course material, develop and give a presentation on your findings, and write a brief report explaining your topic in an engaging and accessible manner.\n\nOption 1a: Imagine you are a consultant hired to audit automated decision systems. Choose a particular prediction algorithm/decision-making algorithm used by a company or a governmental agency. Identify potential ethical concerns and provide concrete recommendations for mitigating potential problems. Create a report/presentation detailing your findings.\nOption 1b: Imagine you are a researcher leading a government task force on accountability in algorithmic decision-making. Choose a particular prediction/decision-making problem for which algorithms are being used or developed. Identify potential ethical concerns and provide concrete recommendations for mitigating potential problems. Create a report/presentation detailing your findings.\nOption 2: Choose your own topic (have it approved by me before starting). Be creative–above all, you are encouraged to pursue topics that excite you.\n\nProject grades will be based on depth of analysis, research beyond course readings, quality of presentation, organization, and originality."
+  },
+  {
+    "objectID": "files/final-project.html#part-one-project-proposal-3-points-due-28",
+    "href": "files/final-project.html#part-one-project-proposal-3-points-due-28",
+    "title": "Final Project",
+    "section": "Part One: Project Proposal (3 points), due 2/8",
+    "text": "Part One: Project Proposal (3 points), due 2/8\nYou will submit a 1-2 page project proposal with the following information:\n\nA brief description of your topic/algorithm/prediction problem.\nA list of your group members.\nAn overview of the main research questions you hope to explore through your project.\nA list of at least five references you plan to consult for your research.\nAny questions you have for me."
+  },
+  {
+    "objectID": "files/final-project.html#part-two-presentation-15-points",
+    "href": "files/final-project.html#part-two-presentation-15-points",
+    "title": "Final Project",
+    "section": "Part Two: Presentation (15 points)",
+    "text": "Part Two: Presentation (15 points)\n10 minutes + 5 minutes for discussion.\nIf you select Option 1, you should prepare as if you are presenting your final recommendations to a client. In particular, you should be sure to cover the following areas:\n\nIntroduction: Introduce and define your topic. Provide an example illustrating how the algorithms you study are intended to be used.\nEthical concerns: What are potential ethical concerns related to your topic? If there are existing criticisms of your algorithm, be sure to discuss them.\nRecommendations: Describe any existing solutions that are being tried and whether they have been effective. What more could be done to address these concerns? For each ethical concern, be sure to provide at least one concrete recommendation for what could be done."
+  },
+  {
+    "objectID": "files/final-project.html#part-three-final-report-15-points",
+    "href": "files/final-project.html#part-three-final-report-15-points",
+    "title": "Final Project",
+    "section": "Part Three: Final Report (15 points)",
+    "text": "Part Three: Final Report (15 points)\n5-7 pages. Other formats are acceptable with approval of the instructor, including podcast, video, website.\nPresent a final report expanding on your presentation. You do not have to write this in the form of an essay, but you should present your findings in a clear and organized way. In addition to the topics listed above, you should cover the following:\n\nTechnical details: How does your algorithm/group of algorithms typically work? What are the inputs and outputs? Where possible, provide details on the actual methods used, but keep the explanation at a level that is accessible to your client.\nConnections: If you are studying one particular algorithm, discuss any other competing algorithms that are used in your setting and whether they have the same issues. If you are studying a group of algorithms, discuss any other decision-making problems where similar ethical concerns arise. If possible, connect your topic to readings/ideas covered in class."
+  },
+  {
+    "objectID": "files/final-project.html#part-four-reflection-and-self-evaluation-2-points.",
+    "href": "files/final-project.html#part-four-reflection-and-self-evaluation-2-points.",
+    "title": "Final Project",
+    "section": "Part Four: Reflection and Self-evaluation (2 points).",
+    "text": "Part Four: Reflection and Self-evaluation (2 points).\n1-2 pages. Answer the following questions:\n\nAt the beginning of the class, we discussed techno-optimism and techno-pessimism. What, if anything, about your answer has changed? What hasn’t changed?\nWhat is one thing that you feel you did well in this class? What is one area in which you wish to improve in the future?\nWhat, if any, topics did you enjoy reading about and discussing most? What, if any, topics did you not enjoy discussing?"
+  },
+  {
     "objectID": "syllabus.html",
     "href": "syllabus.html",
     "title": "Syllabus",
