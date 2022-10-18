@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Overview
 
-For your final project, you will work in groups of up to three to research a topic related to the course material, develop and give a presentation on your findings, and write a brief report explaining your topic in an engaging and accessible manner.
+For your final project, you will work in groups of 3-4 to research a topic related to the course material, develop and give a presentation on your findings, and write a brief report explaining your topic in an engaging and accessible manner.
 
 -   **Option 1a:** Imagine you are a consultant hired to audit automated decision systems. Choose a particular prediction algorithm/decision-making algorithm used by a company or a governmental agency. Identify potential ethical concerns and provide concrete recommendations for mitigating potential problems. Create a report/presentation detailing your findings.
 
@@ -20,19 +20,19 @@ For your final project, you will work in groups of up to three to research a top
 
 Project grades will be based on depth of analysis, research beyond course readings, quality of presentation, organization, and originality.
 
-## Part One: Project Proposal (3 points), due 2/8
+## Part One: Project Proposal (3 points), due 11/1
 
 You will submit a 1-2 page project proposal with the following information:
 
 -   A brief description of your topic/algorithm/prediction problem.
 -   A list of your group members.
 -   An overview of the main research questions you hope to explore through your project.
--   A list of at least five references you plan to consult for your research.
+-   A list of five to ten references you plan to consult for your research.
 -   Any questions you have for me.
 
 ## Part Two: Presentation (15 points)
 
-10 minutes + 5 minutes for discussion.
+8 minutes + 2-3 minutes for discussion.
 
 If you select Option 1, you should prepare as if you are presenting your final recommendations to a client. In particular, you should be sure to cover the following areas:
 
