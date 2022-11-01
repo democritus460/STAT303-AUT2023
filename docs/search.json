@@ -11,7 +11,7 @@
     "href": "assignments.html",
     "title": "Assignments",
     "section": "",
-    "text": "Response 1 (due 10/25)\n\n\nFinal project\n----------\nBelow are the instructions for the assignments used in Winter 2022. For Fall 2022, you can expect similar types of assignments (to be posted).\nResponse 1 WINTER 2022\nResponse 2 WINTER 2022\nResponse 3 WINTER 2022\nFinal project WINTER 2022"
+    "text": "Response 1 (due 10/25)\n\n\nResponse 2 (due 11/15)\n\n\nFinal project\n----------\nBelow are the instructions for the assignments used in Winter 2022. For Fall 2022, you can expect similar types of assignments (to be posted).\nResponse 1 WINTER 2022\nResponse 2 WINTER 2022\nResponse 3 WINTER 2022\nFinal project WINTER 2022"
   },
   {
     "objectID": "index.html",
@@ -75,6 +75,20 @@
     "title": "Long Response 2: Statistical Definitions of Fairness",
     "section": "Instructions",
     "text": "Instructions\n\n(2 points) Explain, in plain language, what calibration means in this context.\n(2 points) Explain, in plain language, what predictive parity means in this context.\n(2 points) Explain, in plain language, what error rate balance means in this context.\n(3 points) Do the algorithms described in the articles above violate any of the above definitions of fairness?\n(3 points) In your opinion, which of the three defintions of fairness above would be the most important to satisfy in this context? Why?\n(3 points) If such an algorithm were shown to satisfy your preferred definition of fairness, would you be comfortable with its use in this context? What other ethical concerns should we consider?"
+  },
+  {
+    "objectID": "files/responses/02_fairness-2022.html",
+    "href": "files/responses/02_fairness-2022.html",
+    "title": "Long Response 2: Statistical Definitions of Fairness",
+    "section": "",
+    "text": "In this assignment, you will apply what we’ve discussed about statistical definitions of fairness. Read this article and this article detailing the use of algorithms to predict student success in higher education.\nConsider an algorithm that outputs a score \\(S\\) that measures a student’s risk of not graduating on time. Inputs \\(X\\) can include grades and other data discussed in the above articles. Suppose this score \\(S\\) is used to make predictions about \\(Y\\), where \\(Y=1\\) is the student graduates on time and \\(Y=0\\) if not. Suppose \\(R\\) describes race. Using the definitions in Chouldechova (2017), answer the following questions.\nYou may work with one partner on this assignment. Your partner should not be someone in your final project group. Only one member of each pair needs to submit a response (on Canvas)."
+  },
+  {
+    "objectID": "files/responses/02_fairness-2022.html#instructions",
+    "href": "files/responses/02_fairness-2022.html#instructions",
+    "title": "Long Response 2: Statistical Definitions of Fairness",
+    "section": "Instructions",
+    "text": "Instructions\n\n(2 points) Explain, in plain language, what calibration means in this context.\n(2 points) Explain, in plain language, what predictive parity means in this context.\n(2 points) Explain, in plain language, what error rate balance means in this context.\n(2 points) Do the algorithms described in the articles above violate any of the above definitions of fairness? If there is not enough information in the articles provided, say so.\n(3 points) In your opinion, which of the three defintions of fairness above would be the most important to satisfy in this context? Why?\n(4 points) If such an algorithm were shown to satisfy your preferred definition of fairness, would you be comfortable with its use in this context? What other ethical concerns should we consider?"
   },
   {
     "objectID": "files/responses/03_resistance.html",
