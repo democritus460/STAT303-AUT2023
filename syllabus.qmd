@@ -8,15 +8,15 @@ title: "Syllabus"
 
 # Course Information
 
-**Instructor**: Peter Gao (petergao at uw dot edu)
+**Instructor**: Thomas Richardson (thomasr at uw dot edu)
 
-**Time**: Tuesdays and Thursdays, 4:00 - 5:20pm
+**Time**: Tuesdays and Thursdays, 4:30 - 5:50pm
 
-**Location**: GUG 204
+**Location**: Savery Hall (SAV) 136
 
-**Office hours**: Tuesday/Thursday 3-3:50pm on [Zoom](https://washington.zoom.us/j/96230914374) or in-person (PDL C-316).
+**Office hours**: Monday 3-3:50pm on [Zoom](https://washington.zoom.us/j/95209444499).
 
-**Note**: When emailing the instructor, please include "\[STAT 303\]" at the beginning of the email header! It will help us respond to you faster.
+**Note**: When emailing the instructor, please include "\[STAT 303\]" at the beginning of the email header! It will help me respond to you faster.
 
 # Overview
 
@@ -64,11 +64,9 @@ In general, the late policy is as follows: Any assignment that is received late 
 
 ### Expectations
 
-The COVID-19 pandemic has and will continue to present many of us with unforeseen difficulties. I encourage all of you to prioritize the health and safety of yourselves and those around you and would be happy to make accommodations that help you to do so. In addition, I hope that we can be patient with one another as we begin transitioning back to in-person learning, as it is likely that not everything will go to plan. Please feel free to reach out to me via email at any point to discuss any concerns you may have about the course.
+The COVID-19 pandemic may continue to present us with unforeseen difficulties. I encourage all of you to prioritize the health and safety of yourselves and those around you and would be happy to make accommodations that help you to do so. In addition, I hope we will all make every effort to keep ourselves and our classmates safe. If you test positive, I encourage you to err on the side of caution with regards to attending classes and would be happy to make accommodations that allow you to do so.
 
-### Keeping each other safe
-
-I am thrilled to be teaching in person and I hope you are excited to be back on campus as well. As we return to physical classrooms, please be respectful of your classmates' boundaries and precautions--we are all readjusting to in-person learning. In addition, I hope we will all make every effort to keep ourselves and our classmates safe. If you test positive or are exposed to possible infection, I encourage you to err on the side of caution with regards to attending classes and would be happy to make accommodations that allow you to do so. I will make high-quality recordings of lecture and additional office hours available to students that are absent due to quarantine.
+Please feel free to reach out to me via email at any point to discuss any concerns you may have about the course.
 
 # Classroom environment
 
@@ -78,7 +76,7 @@ Everyone deserves to be addressed as they would like. Feel free to send us your 
 
 ### Feedback
 
-I encourage and appreciate your feedback throughout the quarter. You are welcome to provide feedback on any aspect of the course at any time via email or in person. If you would prefer to do so confidentially, you can do so through the form [here](https://forms.gle/PDoFd8VQBXxX6gRn8).
+I encourage and appreciate your feedback throughout the quarter. You are welcome to provide feedback on any aspect of the course at any time via email or in person. If you would prefer to do so confidentially, you can do so through the form [here](https://forms.gle/omiVtGbQy9fP3r2r6).
 
 ### Participation expectations
 
@@ -115,14 +113,14 @@ Diverse backgrounds, embodiments, and experiences are essential to the critical 
 
 ### Religious accommodations
 
-Washington state law requires that UW develop a policy for accommodation of student absences or significant hardship due to reasons of faith or conscience, or for organized religious activities. The UW's policy, including more information about how to request an accommodation, is available at [Religious Accommodations Policy](https://registrar.washington.edu/staffandfaculty/religious-accommodations-policy/) (https://registrar.washington.edu/staffandfaculty/religious-accommodations-policy/). Accommodations must be requested within the first two weeks of this course using the [Religious Accommodations Request form](https://registrar.washington.edu/students/religious-accommodations-request/) (https://registrar.washington.edu/students/religious-accommodations-request/).
+Washington state law requires that UW develop a policy for accommodation of student absences or significant hardship due to reasons of faith or conscience, or for organized religious activities. The UW's policy, including more information about how to request an accommodation, is available at [Religious Accommodations Policy](https://registrar.washington.edu/staffandfaculty/religious-accommodations-policy/) (https://registrar.washington.edu/staffandfaculty/religious-accommodations-policy/). Accommodations must be requested within the first two weeks of this course using the [Religious Accommodations Request form](https://registrar.washington.edu/students/religious-accommodations-request/) (<https://registrar.washington.edu/students/religious-accommodations-request/>).
 
 ### Student privacy
 
-Note that the software used in this class (e.g. Canvas, Zoom, Panopto) when used with our UW Net IDs, are FERPA compliant (https://registrar.washington.edu/students/ferpa/). This means they do not monitor student use of their service and they do not share student data with third parties.
+Note that the software used in this class (e.g. Canvas, Zoom, Panopto) when used with our UW Net IDs, are FERPA compliant (<https://registrar.washington.edu/students/ferpa/>). This means they do not monitor student use of their service and they do not share student data with third parties.
 
-Sharing recordings and other class materials outside of class that include personally identifiable student information without the written consent of those students is a violation of FERPA. State law requires consent from people to be recorded (https://apps.leg.wa.gov/rcw/default.aspx?cite=9.73.030), please note that (1) that your participation in this class indicates your consent for course activities to be recorded, (2) you are not permitted to make your own recordings without consent from the instructor and everyone else involved, and (3) that the instructor's recordings will be available for later playback only to students taking the course. For more information about privacy concerns, review the UW Privacy Office policies (https://privacy.uw.edu/policies/best-practices-online-conferencing/), or contact Helen Garrett, the UW's FERPA Officer.
+Sharing recordings and other class materials outside of class that include personally identifiable student information without the written consent of those students is a violation of FERPA. State law requires consent from people to be recorded (https://apps.leg.wa.gov/rcw/default.aspx?cite=9.73.030), please note that (1) that your participation in this class indicates your consent for course activities to be recorded, (2) you are not permitted to make your own recordings without consent from the instructor and everyone else involved, and (3) that the instructor's recordings will be available for later playback only to students taking the course. For more information about privacy concerns, review the UW Privacy Office policies (<https://privacy.uw.edu/policies/best-practices-online-conferencing/>), or contact Helen Garrett, the UW's FERPA Officer.
 
 # Links and other resources
 
--   [Canvas](https://canvas.uw.edu/courses/1519560)[Page](https://canvas.uw.edu/courses/1605870)
+-   [CanvasPage](https://canvas.uw.edu/courses/1662586)
